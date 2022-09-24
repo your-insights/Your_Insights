@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:none;stroke:#1E3460;stroke-width:32.0324;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:#1E3460;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'FootlightMTLight';}
+	.st5{font-size:243.1552px;}
+	.st6{font-size:217.0908px;}
+	.st7{display:inline;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:32.0324;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g id="white">
+	<rect x="-3.86" y="-3.86" class="st0" width="1083.86" height="1083.86"/>
+	<g>
+		<path class="st1" d="M239.15,567.73c-10.63-65.21,37.07-123.79,95.47-128.55c60.23-4.91,118,48.55,114.82,116.69"/>
+		<polygon class="st2" points="200.31,671.94 275.77,582.56 113.26,642.68 		"/>
+		<polygon class="st2" points="209.41,678.18 281.81,586.3 255.55,757.58 		"/>
+		<g>
+			<text transform="matrix(1 0 0 1 494.9942 519.9882)" class="st3 st4 st5">your</text>
+			<text transform="matrix(0.9807 0 0 1 300.4849 688.1039)" class="st3 st4 st6">insights</text>
+		</g>
+	</g>
+</g>
+<g id="full_white" class="st0">
+	<g class="st7">
+		<path class="st8" d="M239.15,567.73c-10.63-65.21,37.07-123.79,95.47-128.55c60.23-4.91,118,48.55,114.82,116.69"/>
+		<polygon class="st3" points="200.31,671.94 275.77,582.56 113.26,642.68 		"/>
+		<polygon class="st3" points="209.41,678.18 281.81,586.3 255.55,757.58 		"/>
+		<g>
+			<text transform="matrix(1 0 0 1 494.9942 519.9882)" class="st3 st4 st5">your</text>
+			<text transform="matrix(0.9807 0 0 1 300.4849 688.1039)" class="st3 st4 st6">insights</text>
+		</g>
+	</g>
+</g>
+<g id="original" class="st0">
+	<g class="st7">
+		<path class="st1" d="M239.15,567.73c-10.63-65.21,37.07-123.79,95.47-128.55c60.23-4.91,118,48.55,114.82,116.69"/>
+		<polygon class="st2" points="200.31,671.94 275.77,582.56 113.26,642.68 		"/>
+		<polygon class="st2" points="209.41,678.18 281.81,586.3 255.55,757.58 		"/>
+		<text transform="matrix(1 0 0 1 494.9942 519.9882)" class="st4 st5">your</text>
+		<text transform="matrix(0.9807 0 0 1 300.4849 688.1039)" class="st4 st6">insights</text>
+	</g>
+</g>
+</svg>

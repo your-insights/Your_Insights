@@ -8,12 +8,28 @@ class Assets {
       'C:/Users/DHIRAJ/Your_Insights/assets/icons/login.svg';
   static const String iconsWelcome =
       'C:/Users/DHIRAJ/Your_Insights/assets/icons/welcome.svg';
+  static const String imagesDashboard =
+      'C:/Users/DHIRAJ/Your_Insights/assets/images/dashboard.png';
+  static const String imagesFin =
+      'C:/Users/DHIRAJ/Your_Insights/assets/images/fin.jpg';
   static const String imagesLoginBottom =
       'C:/Users/DHIRAJ/Your_Insights/assets/images/login_bottom.png';
+  static const String imagesLogo =
+      'C:/Users/DHIRAJ/Your_Insights/assets/images/logo.svg';
+  static const String imagesLogo2 =
+      'C:/Users/DHIRAJ/Your_Insights/assets/images/logo2.png';
   static const String imagesMainBottom =
       'C:/Users/DHIRAJ/Your_Insights/assets/images/main_bottom.png';
   static const String imagesMainTop =
       'C:/Users/DHIRAJ/Your_Insights/assets/images/main_top.png';
+  static const String imagesMsgapp =
+      'C:/Users/DHIRAJ/Your_Insights/assets/images/msgapp.png';
+  static const String imagesSocialapp =
+      'C:/Users/DHIRAJ/Your_Insights/assets/images/socialapp.png';
+  static const String imagesSourcehub =
+      'C:/Users/DHIRAJ/Your_Insights/assets/images/sourcehub.png';
   static const String imagesSplash =
       'C:/Users/DHIRAJ/Your_Insights/assets/images/splash.png';
+  static const String imagesTodoapp =
+      'C:/Users/DHIRAJ/Your_Insights/assets/images/todoapp.png';
 }
